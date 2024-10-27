@@ -1,0 +1,50 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "name": "Classic Leather Jacket",
+          "image": "https://i.ibb.co/84Zfw2n/1.jpg",
+          "description": "A stylish and durable leather jacket made from 100% genuine leather.",
+          "price": 120,
+          "category": "Clothing",
+          "isFeature": true
+        },
+        {
+          "id": 2,
+          "name": "Wireless Headphones",
+          "image": "https://i.ibb.co/6N2dgnZ/2.png",
+          "description": "High-quality wireless headphones with noise-cancelling feature.",
+          "price": 80,
+          "category": "Electronics",
+          "isFeature": false
+        },
+        {
+          "id": 3,
+          "name": "Running Shoes",
+          "image": "https://i.ibb.co/RzGzcPg/3.png",
+          "description": "Lightweight running shoes with excellent cushioning and grip.",
+          "price": 65,
+          "category": "Footwear",
+          "isFeature": true
+        },
+        {
+          "id": 4,
+          "name": "Smart Watch",
+          "image": "https://i.ibb.co/vvTfkcv/4.jpg",
+          "description": "Feature-packed smart watch with heart rate monitor and GPS.",
+          "price": 150,
+          "category": "Wearables",
+          "isFeature": false
+        },
+        {
+          "id": 5,
+          "name": "Office Chair",
+          "image": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+          "description": "Ergonomic office chair with adjustable height and lumbar support.",
+          "price": 200,
+          "category": "Furniture",
+          "isFeature": true
+        }
+      ]
+}
+  
